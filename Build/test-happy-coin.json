@@ -1,0 +1,16 @@
+{
+"companyName": "Extend Interactive Co., Ltd.",
+"productName": "HappyLife",
+"productVersion": "0.1",
+"dataUrl": "test-happy-coin.data.unityweb",
+"wasmCodeUrl": "test-happy-coin.wasm.code.unityweb",
+"wasmFrameworkUrl": "test-happy-coin.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.20f1"
+}
