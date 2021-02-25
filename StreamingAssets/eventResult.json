@@ -62,6 +62,55 @@
                 "move" : -2
             },
             "coin_change_degree" : -3
+        },
+        {
+            "event_result_id" : 20,
+            "type" : 1,
+            "title" : "เป็นหวัด",
+            "picture_id" : 33,
+            "content" : "คุณเป็นหวัดเพราะร่างกายอ่อนแอ จ่ายค่ายา <sprite=0>{0}",
+            "tags" : "illness",
+            "result" : {
+                "coin" : -700
+            },
+            "coin_change_degree" : -1
+        },
+        {
+            "event_result_id" : 25,
+            "type" : 0,
+            "title" : "ถูกลอตเตอรี่",
+            "picture_id" : 24,
+            "content" : "ยินดีด้วย คุณถูกรางวัลเลขท้าย 2 ตัว ได้รับ <sprite=0>{0}",
+            "tags" : "reward",
+            "result" : {
+                "coin" : 2000
+            },
+            "coin_change_degree" : 3
+        },
+        {
+            "event_result_id" : 26,
+            "type" : 0,
+            "title" : "ถูกลอตเตอรี่",
+            "picture_id" : 24,
+            "content" : "ยินดีด้วย คุณถูกรางวัลเลขท้าย 3 ตัว ได้รับ <sprite=0>{0}",
+            "tags" : "reward",
+            "result" : {
+                "coin" : 4000
+            },
+            "coin_change_degree" : 5
+        },
+        {
+            "event_result_id" : 40,
+            "type" : 1,
+            "title" : "ไข้หวัดใหญ่",
+            "picture_id" : 35,
+            "content" : "ติดเชื้อไข้หวัดใหญ่ต้องนอนโรงพยายาล จ่าย <sprite=0>{0} และเสีย <sprite=2>{1}",
+            "tags" : "illness",
+            "result" : {
+                "coin" : -3000,
+                "move" : -1
+            },
+            "coin_change_degree" : -4
         }
     ]
 }

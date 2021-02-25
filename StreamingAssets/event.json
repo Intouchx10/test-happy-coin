@@ -204,6 +204,66 @@
             "choice_1_tags" : [],
             "choice_2_tags" : [],
             "result" : ""
+        },
+        {
+            "event_id" : 304,
+            "minimum_round" : 0,
+            "category" : "Force Event",
+            "tile" : "Payday",
+            "headline" : "",
+            "content" : "",
+            "choices" : [],
+            "choice_1_tags" : [],
+            "choice_2_tags" : [],
+            "result" : ""
+        },
+        {
+            "event_id" : 401,
+            "minimum_round" : 0,
+            "category" : "Force Event",
+            "tile" : "Airport",
+            "headline" : "",
+            "content" : "",
+            "choices" : [],
+            "choice_1_tags" : [],
+            "choice_2_tags" : [],
+            "result" : ""
+        },
+        {
+            "event_id" : 402,
+            "minimum_round" : 0,
+            "category" : "Force Event",
+            "tile" : "Minigame",
+            "headline" : "",
+            "content" : "",
+            "choices" : [],
+            "choice_1_tags" : [],
+            "choice_2_tags" : [],
+            "result" : ""
+        },
+        {
+            "event_id" : 403,
+            "minimum_round" : 0,
+            "category" : "Force Event",
+            "tile" : "Minigame",
+            "headline" : "",
+            "content" : "",
+            "choices" : [],
+            "choice_1_tags" : [],
+            "choice_2_tags" : [],
+            "result" : ""
+        },
+        {
+            "event_id" : 404,
+            "minimum_round" : 0,
+            "category" : "Force Event",
+            "tile" : "Start",
+            "headline" : "",
+            "content" : "",
+            "choices" : [],
+            "choice_1_tags" : [],
+            "choice_2_tags" : [],
+            "result" : ""
         }
     ]
 }
